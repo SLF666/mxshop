@@ -1,0 +1,2 @@
+2025-01-27T22:15:42.406+0800	INFO	zap_log_file/main.go:17	hello world
+2025-01-27T22:19:43.387+0800	INFO	zap_log_file/main.go:18	hello world%!(EXTRA zapcore.Field={name 15 0 slf <nil>})

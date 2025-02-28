@@ -1,0 +1,22 @@
+  {
+    "name": "user-web",
+    "host": "127.0.0.1",
+    "port": 8080,
+    "tags": ["user", "web"],
+    "user_srv": {
+      "name": "user_srv",
+      "host": "127.0.0.1",
+      "port": 50051
+    },
+    "jwt": {
+      "key": "slf666"
+    },
+    "redis": {
+      "host": "127.0.0.1",
+      "port": 6379
+    },
+    "consul": {
+      "host": "127.0.0.1",
+      "port": 8500
+    }
+  }
